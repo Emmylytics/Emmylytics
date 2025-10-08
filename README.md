@@ -11,11 +11,7 @@
 
 - <b>Coffee Sales Dashboard (Power BI)</b>  
   - [GitHub Project Link](https://github.com/yourusername/coffee-sales-dashboard)  
-  - Built interactive dashboards, KPIs, and performed time series analysis on sales data.  
-
-- <b>Hospital Data Analytics (SQL + Power BI + DAX)</b>  
-  - [GitHub Project Link](https://github.com/yourusername/hospital-data-analysis)  
-  - SQL querying, data modeling, and advanced DAX measures for hospital operations insights.  
+  - Built interactive dashboards, KPIs, and performed time series analysis on sales data.    
 
 - <b>Data Cleaning & Automation Scripts (Python + Pandas)</b>  
   - [GitHub Project Link](https://github.com/yourusername/data-cleaning-scripts)  
