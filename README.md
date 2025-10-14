@@ -7,7 +7,7 @@
 
 - <b>Stroke Data Analysis & Visualization (Python + Pandas + Matplotlib/Seaborn)</b>  
   - [GitHub Project Link](https://github.com/yourusername/stroke-data-analysis)  
-  - Explored and visualized stroke dataset, created insights dashboards, and performed correlation analysis.  
+  - Explored and visualized stroke dataset, created insights dashboards, and performed correlation analysis. 
 
 - <b>Coffee Sales Dashboard (Power BI)</b>  
   - [GitHub Project Link](https://github.com/yourusername/coffee-sales-dashboard)  
