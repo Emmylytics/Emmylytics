@@ -1,5 +1,5 @@
 <h1>Hi, I'm Emmanuel (Emmy)! 👋</h1>
-<p>Data Analyst | SQL & Python Enthusiast | Power BI & Visualization Specialist</p>
+<p>Data Analyst | SQL & Python Enthusiast | Power BI & Visualization Specialist | Biotechnologist</p>
 
 ---
 
