@@ -1,11 +1,20 @@
-<h1>Hi, I'm Emmanuel (Emmy)! 👋</h1>
-<p>Data Analyst | SQL & Python Enthusiast | Power BI & Visualization Specialist | Biotechnologist</p>
+<div align="center">
+  <h1>Hi, I'm Emmanuel (Emmy)! 👋</h1>
+  <p><b>I connect dots - sometimes genes, sometimes data points.</b></p>
+</div>
 
----
 
-<h2>🛠 Skills & Tools</h2>
+<br><br><br><br>
 
-- **Programming & Querying:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, SQL Server)  
-- **Data Wrangling & Analysis:** Data Cleaning, Transformation, EDA (Exploratory Data Analysis)  
-- **Data Visualization & BI:** Power BI, Matplotlib, Seaborn  
-- **Other Tools:** Git, GitHub, Jupyter Notebook, DAX
+
+<h2>Skills & Tools:</h2>
+<p>
+python • pandas • mysql • sql server • seaborn • scipy • dax • numpy • jupyter notebook • matplotlib • git • github
+</p>
+
+<h2>Connect with me:</h2>
+<p>
+📧 achugoemmanuel18@gmail.com<br>
+💼 <a href="https://www.linkedin.com/in/emmanuel-achugo/">LinkedIn</a><br>
+🐦 <a href="https://x.com/emmylytics">x.com/emmylytics</a>
+</p>
