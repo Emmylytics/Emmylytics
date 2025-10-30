@@ -9,7 +9,7 @@
 
 <h2>Skills & Tools:</h2>
 <p>
-python • pandas • mysql • sql server • seaborn • scipy • dax • numpy • jupyter notebook • matplotlib • git • github
+python • pandas • mysql • sql server • seaborn • scipy • dax • numpy • jupyter notebook • matplotlib • github
 </p>
 
 <h2>Connect with me:</h2>
