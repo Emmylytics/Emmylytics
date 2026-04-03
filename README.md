@@ -1,19 +1,22 @@
-<div align="center">
-  <h1>Hi, I'm Emmanuel (Emmy)! 👋</h1>
-  <p><b>Data Analyst | Biotechnologist</b></p>
-  <p><b>Exploring patterns in data, from biological systems to business metrics.</b></p>
-</div>
+# 💫 About Me:
+Exploring data to uncover patterns and understand relationships.
 
-<br><br>
 
-<h2>Skills & Tools:</h2>
-<p>
-python • pandas • numpy • scipy • statsmodels • scikit-learn • sql • mysql • postgresql • dax • power bi • matplotlib • seaborn • jupyter notebook • github
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-achugo/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/emmylytics) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achugoemmanuel18@gmail.com ) 
 
-<h2>Connect with me:</h2>
-<p>
-📧 achugoemmanuel18@gmail.com<br>
-💼 <a href="https://www.linkedin.com/in/emmanuel-achugo/">LinkedIn</a><br>
-🐦 <a href="https://x.com/emmylytics">x.com/emmylytics</a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Emmylytics &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Emmylytics &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmylytics &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Emmylytics &limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Emmylytics &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
