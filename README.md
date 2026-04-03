@@ -18,8 +18,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmylytics&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmylytics&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmylytics&show_icons=true&theme=default"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmylytics&theme=default"/>
 </p>
 
 
