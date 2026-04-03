@@ -44,5 +44,5 @@
 
 
 <p align="center">
-  💡 <i>Numbers have an important story to tell. They rely on you to give them a clear and convincing voice.</i>
+  💡 <i>First, solve the problem. Then write the code.</i>
 </p>
